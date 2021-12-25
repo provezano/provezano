@@ -13,7 +13,7 @@ I'm a Data Scientist with Masters Degree in Computer Science and Computational M
 
   * [House Sales Data Analysis](https://github.com/provezano/house-sales-price-data-analysis)
   * [Census Income Dataset](https://github.com/provezano/census-income-dataset)
-  * [Stroke Prediction](https://github.com/provezano/StrokePrediction)
+  * [Stroke Prediction](https://github.com/provezano/stroke-prediction)
   * [Rossmann Store Sales](https://github.com/provezano/rossmann-store-sales)
   * [Health Insurance Cross Sell Prediction](https://github.com/provezano/Health_Insurance_Cross_Sell)
   * [UK High Value Customers Identification](https://github.com/provezano/UK-High-Value-Customers-Identification)
