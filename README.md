@@ -11,6 +11,7 @@ I'm a Data Scientist with Masters Degree in Computer Science and Computational M
  
 ##### Portfolio Projects
 
+  * [Churn Prediction](https://github.com/provezano/telco-customer-churn)
   * [Car Price Prediction](https://github.com/provezano/car-price-prediction)
   * [House Sales Data Analysis](https://github.com/provezano/house-sales-price-data-analysis)
   * [Census Income Dataset](https://github.com/provezano/census-income-dataset)
