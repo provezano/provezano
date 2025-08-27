@@ -15,5 +15,6 @@ I'm a Data Scientist with Masters Degree in Computer Science and Computational M
 </div>
 
 ##### Personal Projects
-  
+
+  * [AI Data Analyst - Talk to your data - CrewAI](https://github.com/provezano/ecommerce-data-analyst-agent)
   * [Learning with Local and Global Consistency Algorithm](https://github.com/provezano/lgc)
