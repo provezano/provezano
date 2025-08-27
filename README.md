@@ -1,7 +1,8 @@
 <h2 align="center">Hi 👋, I'm Felipe Coutinho!</h2>
 <br>
 
-I'm a Data Scientist with Masters Degree in Computer Science and Computational Mathematics according to University of São Paulo.
+I'm an AI Engineer (and sometimes a Data Scientist, depending on how you prefer to call it 😊).  
+I hold a **Master’s Degree in Computer Science and Computational Mathematics** from the **University of São Paulo**.
 
 <div align="center">
   <a href="https://github.com/provezano">
@@ -17,4 +18,5 @@ I'm a Data Scientist with Masters Degree in Computer Science and Computational M
 ##### Personal Projects
 
   * [AI Data Analyst - Talk to your data - CrewAI](https://github.com/provezano/ecommerce-data-analyst-agent)
+  * [Churn Prediction for a School - pt-BR](https://github.com/provezano/churn_prediction)
   * [Learning with Local and Global Consistency Algorithm](https://github.com/provezano/lgc)
