@@ -12,23 +12,18 @@
 I build applied AI systems, data products, and reproducible machine-learning research.
 I hold a **Master's degree in Computer Science and Computational Mathematics** from the **University of São Paulo**.
 
-## Selected projects
+## Selected public projects
 
 ### Research and machine learning
 
 - **[Stratified Few-Label Protocols](https://github.com/provezano/stratified-few-label-protocols)** — Reproducible research on how stratified few-label evaluation protocols can overstate macro-averaged metrics for tabular foundation models. Includes pre-registrations, stored results, audits, and regeneration scripts.
-- **[PredictRift](https://github.com/provezano/PredictRift)** — Production-oriented League of Legends esports prediction and betting-intelligence platform with calibrated ML, odds ingestion, result tracking, and optional LLM enrichment.
-- **[Supplier Assessment Pipeline](https://github.com/provezano/supplier-assessment)** — Statistical and semantic analysis pipeline for technical supplier assessments.
+- **[Learning with Local and Global Consistency](https://github.com/provezano/lgc)** — Implementation of the graph-based semi-supervised learning algorithm.
+- **[Statistics Methods for ML Training](https://github.com/provezano/statistics-methods-for-ml-training)** — Practical study materials and notebooks covering statistical methods used in machine learning.
 
 ### AI products and data applications
 
 - **[AI Data Analyst](https://github.com/provezano/ecommerce-data-analyst-agent)** — Conversational data analysis for e-commerce using CrewAI.
 - **[Churn Prediction for a School](https://github.com/provezano/churn_prediction)** — Portuguese-language school churn prediction project.
-- **[Learning with Local and Global Consistency](https://github.com/provezano/lgc)** — Implementation of the graph-based semi-supervised learning algorithm.
-
-### Quantitative systems
-
-- **[Trading research](https://github.com/provezano/trading)** — Algorithmic trading research and paper-trading infrastructure for crypto and US equities.
 
 ## Focus areas
 
