@@ -1,22 +1,40 @@
-<h2 align="center">Hi 👋, I'm Felipe Coutinho!</h2>
-<br>
+<h1 align="center">Hi 👋, I'm Felipe Coutinho!</h1>
 
-I'm an AI Engineer (and sometimes a Data Scientist, depending on how you prefer to call it 😊).  
-I hold a **Master’s Degree in Computer Science and Computational Mathematics** from the **University of São Paulo**.
+<p align="center">
+  AI Engineer · Data Scientist · Machine Learning Researcher
+</p>
 
-<div align="center">
-  <a href="https://github.com/provezano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=provezano&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=provezano&layout=compact&langs_count=7&theme=default"/>
-</div>
-  
-##### Resume
-<div> 
-  <a href="https://www.linkedin.com/in/provezano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/provezano"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/provezano"><img src="https://img.shields.io/github/followers/provezano?style=for-the-badge&label=Follow" alt="GitHub followers"></a>
+</p>
 
-##### Personal Projects
+I build applied AI systems, data products, and reproducible machine-learning research.
+I hold a **Master's degree in Computer Science and Computational Mathematics** from the **University of São Paulo**.
 
-  * [AI Data Analyst - Talk to your data - CrewAI](https://github.com/provezano/ecommerce-data-analyst-agent)
-  * [Churn Prediction for a School - pt-BR](https://github.com/provezano/churn_prediction)
-  * [Learning with Local and Global Consistency Algorithm](https://github.com/provezano/lgc)
+## Selected projects
+
+### Research and machine learning
+
+- **[Stratified Few-Label Protocols](https://github.com/provezano/stratified-few-label-protocols)** — Reproducible research on how stratified few-label evaluation protocols can overstate macro-averaged metrics for tabular foundation models. Includes pre-registrations, stored results, audits, and regeneration scripts.
+- **[PredictRift](https://github.com/provezano/PredictRift)** — Production-oriented League of Legends esports prediction and betting-intelligence platform with calibrated ML, odds ingestion, result tracking, and optional LLM enrichment.
+- **[Supplier Assessment Pipeline](https://github.com/provezano/supplier-assessment)** — Statistical and semantic analysis pipeline for technical supplier assessments.
+
+### AI products and data applications
+
+- **[AI Data Analyst](https://github.com/provezano/ecommerce-data-analyst-agent)** — Conversational data analysis for e-commerce using CrewAI.
+- **[Churn Prediction for a School](https://github.com/provezano/churn_prediction)** — Portuguese-language school churn prediction project.
+- **[Learning with Local and Global Consistency](https://github.com/provezano/lgc)** — Implementation of the graph-based semi-supervised learning algorithm.
+
+### Quantitative systems
+
+- **[Trading research](https://github.com/provezano/trading)** — Algorithmic trading research and paper-trading infrastructure for crypto and US equities.
+
+## Focus areas
+
+`Applied AI` · `Machine Learning` · `Data Science` · `LLM Applications` · `Reproducible Research` · `Quantitative Systems`
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/provezano)
+- [GitHub](https://github.com/provezano)
