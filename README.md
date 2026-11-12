@@ -1,7 +1,7 @@
 <h1 align="center">Felipe Provezano Coutinho</h1>
 
 <p align="center">
-  Independent researcher in machine learning and operations research · Applied AI engineer
+  Researcher in machine learning and operations research · Applied AI engineer
 </p>
 
 <p align="center">
